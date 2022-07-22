@@ -154,6 +154,16 @@ img {
         width: 100%;
     }
 
+    .steps {
+        margin: 3rem 0px 0px 0px;
+    }
+
+    .why-us {
+        background-color: #222222;
+        margin-bottom: 0;
+        padding: 3rem 0px;
+    }
+
     .why-us .col-left,
     .why-us .col-right {
         width: 100%;
